@@ -1,0 +1,13 @@
+2017-04-30 20:41:26 INFO  TC001_VerifyLoginWithInvalidCredentials:24 - ==========Starting verifyLoginWithInvalidCredentials test=======
+2017-04-30 20:41:26 INFO  HomePage:34 - Clicking on sign in and object is [[ChromeDriver: chrome on XP (4f05c9981988b8bb5f007a07af44a9a4)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-04-30 20:41:28 INFO  HomePage:36 - Entering Email address of jnkarthi@gmail.com and object is [[ChromeDriver: chrome on XP (4f05c9981988b8bb5f007a07af44a9a4)] -> id: email]
+2017-04-30 20:41:28 INFO  HomePage:38 - Entering password of password and object is [[ChromeDriver: chrome on XP (4f05c9981988b8bb5f007a07af44a9a4)] -> id: passwd]
+2017-04-30 20:41:28 INFO  HomePage:40 - clicked on submit button and object is [[ChromeDriver: chrome on XP (4f05c9981988b8bb5f007a07af44a9a4)] -> id: SubmitLogin]
+2017-04-30 20:41:29 INFO  HomePage:45 - error message is :-[[ChromeDriver: chrome on XP (4f05c9981988b8bb5f007a07af44a9a4)] -> xpath: //*[@id='center_column']/div[1]/ol/li]
+2017-04-30 20:41:29 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ==========Ending verifyLoginWithInvalidCredentials test=======
+2017-04-30 20:50:10 INFO  TC001_VerifyLoginWithInvalidCredentials:24 - ==========Starting verifyLoginWithInvalidCredentials test=======
+2017-04-30 20:50:10 INFO  HomePage:34 - Clicking on sign in and object is [[ChromeDriver: chrome on XP (3e166464c3ad478393d3232ade63c9df)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-04-30 20:50:10 INFO  HomePage:36 - Entering Email address of jnkarthi@gmail.com and object is Proxy element for: DefaultElementLocator 'By.id: email'
+2017-04-30 20:50:46 INFO  TC001_VerifyLoginWithInvalidCredentials:24 - ==========Starting verifyLoginWithInvalidCredentials test=======
+2017-04-30 20:50:46 INFO  HomePage:34 - Clicking on sign in and object is [[ChromeDriver: chrome on XP (b00541c54a3ce4f5ef30631204aa0b3b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-04-30 20:51:46 INFO  HomePage:36 - Entering Email address of jnkarthi@gmail.com and object is Proxy element for: DefaultElementLocator 'By.id: email'
